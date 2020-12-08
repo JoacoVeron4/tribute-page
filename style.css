@@ -1,0 +1,60 @@
+#main {
+  background-color: #eeeeee;
+  padding: 10px;
+  text-align: center;
+  display: block;
+  font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma,
+    Sans-Serif;
+}
+
+#img-div {
+  background-color: white;
+  padding: 6px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin: 8px;
+}
+
+#tribute-info {
+  display: block;
+}
+
+#timeline-tittle {
+  padding: 30px 6px;
+  text-align: center;
+}
+
+#timeline {
+  width: 550px;
+  height: 1165px;
+  text-align: left;
+  margin: 0 auto 50px auto;
+  display: block;
+}
+
+.item {
+  padding: 16px 0px;
+}
+
+#quote {
+  width: 550px;
+  text-align: left;
+  margin: 0 auto 5px auto;
+  display: block;
+  font-style: italic;
+}
+
+#font {
+  width: 550px;
+  margin: 30px auto 30px auto;
+  font-style: italic;
+  text-align: left;
+}
